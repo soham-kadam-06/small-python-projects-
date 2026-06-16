@@ -1,32 +1,11 @@
-# 🐍 Python Mini Projects
+# Silent Auction Program
 
-A collection of **very basic Python projects** created for learning, practice, and logic building.
+A command-line Python program that takes bids from multiple users, clears the screen between turns to keep bids secret, and calculates the highest bidder.
 
-This repository focuses on **simple, beginner-friendly programs** that help strengthen Python fundamentals.
+## How to Run
 
----
-
-## 📌 What's Inside
-
-- Basic Python scripts  
-- Small logic-building programs  
-- Beginner-level mini projects  
-- Clean and readable code  
-
----
-
-## 🎯 Purpose
-
-- Practice Python fundamentals  
-- Improve problem-solving  
-- Build consistency  
-- Strengthen programming logic  
-
----
-
-## 🚀 How To Run
-
-```bash
-git clone https://github.com/your-username/python-mini-projects.git
-cd python-mini-projects
-python filename.py
+1. Ensure you have Python installed.
+2. Clone the repository and navigate to this folder.
+3. Run the script:
+   ```bash
+   python auction.py
